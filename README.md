@@ -20,7 +20,7 @@ This project is a fullstack Myntra-style e-commerce web application built using 
   - Discount on MRP
   - Convenience Fee
   - Final total
-  -     
+
 ---
 
 ## 🔧 Tech Stack
